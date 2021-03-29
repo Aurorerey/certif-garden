@@ -1,0 +1,15 @@
+current directory: /Users/pandora/code/Aurorerey/certif-garden/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.2/ext/bootsnap
+/Users/pandora/.rbenv/versions/2.6.6/bin/ruby -I /Users/pandora/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210329-50098-hd4tyv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/pandora/code/Aurorerey/certif-garden/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.2/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/pandora/code/Aurorerey/certif-garden/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.2/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/pandora/code/Aurorerey/certif-garden/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.2/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210329-50098-1et8ra0/bootsnap
